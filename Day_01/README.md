@@ -35,3 +35,8 @@ You will start searching for a calculator or jump to a new tab to calculate the 
 - You can easily fork this repl and continue learning in your own style. Video, code as well as text tutorial on the same page which makes things easy!
 - For fellow teachers out there, you create a .tutorial folder to create tutorials using replit.
 
+## Day 1 Completed✅ 
+
+* [Repl Link](https://replit.com/@kishanrajput23/01-Day1-Intro-to-Python)
+
+* [Tweet Link](https://twitter.com/kishan_rajput23/status/1597309937155461120?s=20&t=sWunOdN283hv2QO_v7OaeA)
