@@ -1,4 +1,4 @@
-# 100-Days-Of-Code
+# 100 Days Of Code 🔥
 
 ### Introduction
 
@@ -23,7 +23,7 @@ This challenge is to help you learn to code and get better at it.
 * Push the changes to the forked repo.
 * Create a pull request.
 
-### 100 Days of Code Challenges
+### 100 Days of Code Challenges ✅
 
 - Day 1: [Intro to Python](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_01)
 - Day 2: [Application of Python](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_02)
@@ -37,6 +37,7 @@ This challenge is to help you learn to code and get better at it.
 * **Kishan Kumar Rai**
 * [Twitter](https://twitter.com/kishan_rajput23)
 * [GitHub](https://github.com/kishanrajput23)
+* [YouTube](https://www.youtube.com/@CodingBuddies)
 * [Email](mailto:kishan.rai99693@gmail.com)
 
 ### Support
