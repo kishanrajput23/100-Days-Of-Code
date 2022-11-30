@@ -27,6 +27,7 @@ This challenge is to help you learn to code and get better at it.
 
 - Day 1: [Intro to Python](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_01)
 - Day 2: [Application of Python](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_02)
+- Day 3: [Modules and pip in Python](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_03)
 
 ### License
 
