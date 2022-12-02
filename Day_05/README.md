@@ -107,3 +107,9 @@ print(object(s), sep=separator, end=end, file=file, flush=flush)
 4. file: An object with a write method. Default is sys.stdout
 
 Parameters 2 to 4 are optional
+
+## Day 5 Completed✅ 
+
+* [Repl Link](https://replit.com/@kishanrajput23/05-Day5-Comments-and-Print)
+
+* [Tweet Link](https://twitter.com/kishan_rajput23/status/1598717060280119297?s=20&t=U1vx-x-IoKa4u_t_eDYPlg)
