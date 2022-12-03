@@ -30,6 +30,7 @@ This challenge is to help you learn to code and get better at it.
 - Day 3: [Modules and pip in Python](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_03)
 - Day 4: [Our First Program](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_04)
 - Day 5: [Comments, Escape sequence & Print in Python](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_05)
+- Day 6: [Variables and Data Types](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_06)
 
 ### License
 
