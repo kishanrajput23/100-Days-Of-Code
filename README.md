@@ -31,6 +31,7 @@ This challenge is to help you learn to code and get better at it.
 - Day 4: [Our First Program](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_04)
 - Day 5: [Comments, Escape sequence & Print in Python](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_05)
 - Day 6: [Variables and Data Types](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_06)
+- Day 7: [Exercise 1 - Create a Calculator](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_07)
 
 ### License
 
