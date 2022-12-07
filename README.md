@@ -34,6 +34,7 @@ This challenge is to help you learn to code and get better at it.
 - Day 7: [Exercise 1 Create a Calculator](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_07)
 - Day 8: [Exercise 1 Create a Calculator Solution](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_08)
 - Day 9: [Typecasting in python](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_09)
+- Day 10: [Taking User Input in python](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_10)
 
 ### License
 
