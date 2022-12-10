@@ -1,4 +1,3 @@
-String Slicing & Operations on String
 # Day 12 : String Slicing & Operations on String
 
 ## Length of a String
