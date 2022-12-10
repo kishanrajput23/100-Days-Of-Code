@@ -36,6 +36,8 @@ This challenge is to help you learn to code and get better at it.
 - Day 9: [Typecasting in python](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_09)
 - Day 10: [Taking User Input in python](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_10)
 - Day 11: [What are strings?](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_11)
+- Day 12: [String Slicing & Operations on String](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_12)
+- Day 13: [String methods](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_13)
 
 ### License
 
