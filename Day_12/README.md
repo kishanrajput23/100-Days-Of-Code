@@ -69,3 +69,9 @@ C
 D
 E
 ```
+
+## Day 12 Completed✅ 
+
+* [Repl Link](https://replit.com/@kishanrajput23/12-Day12-Strings-Slicing)
+
+* [Tweet Link](https://twitter.com/kishan_rajput23/status/1601246895695069185?s=20&t=3hSp2CwgFqv9HaE5HqODaA)
