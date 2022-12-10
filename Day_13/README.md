@@ -383,3 +383,9 @@ Output:
 ```
 He'S Name Is Dan. Dan Is An Honest Man.
 ```
+
+## Day 13 Completed✅ 
+
+* [Repl Link](https://replit.com/@kishanrajput23/13-Day13-String-Methods)
+
+* [Tweet Link](https://twitter.com/kishan_rajput23/status/1601640096179965953?s=20&t=3hSp2CwgFqv9HaE5HqODaA)
