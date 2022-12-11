@@ -38,6 +38,7 @@ This challenge is to help you learn to code and get better at it.
 - Day 11: [What are strings?](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_11)
 - Day 12: [String Slicing & Operations on String](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_12)
 - Day 13: [String methods](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_13)
+- Day 14: [If Else Conditionals](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_14)
 
 ### License
 
