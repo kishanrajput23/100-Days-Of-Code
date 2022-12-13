@@ -40,6 +40,7 @@ This challenge is to help you learn to code and get better at it.
 - Day 13: [String methods](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_13)
 - Day 14: [If Else Conditionals](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_14)
 - Day 15: [Excersice 2 Good Morning Sir](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_15)
+- Day 16: [Match Case Statements](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_16)
 
 ### License
 
