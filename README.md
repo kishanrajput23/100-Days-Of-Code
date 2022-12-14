@@ -41,6 +41,7 @@ This challenge is to help you learn to code and get better at it.
 - Day 14: [If Else Conditionals](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_14)
 - Day 15: [Excersice 2 Good Morning Sir](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_15)
 - Day 16: [Match Case Statements](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_16)
+- Day 17: [Introduction To Loops](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_17)
 
 ### License
 
