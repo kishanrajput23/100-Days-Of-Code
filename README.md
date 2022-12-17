@@ -44,6 +44,7 @@ This challenge is to help you learn to code and get better at it.
 - Day 17: [Introduction To Loops](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_17)
 - Day 18: [Python while Loop](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_18)
 - Day 19: [break and continue](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_19)
+- Day 20: [Functions](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_20)
 
 ### License
 
