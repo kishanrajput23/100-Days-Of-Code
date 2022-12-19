@@ -46,6 +46,7 @@ This challenge is to help you learn to code and get better at it.
 - Day 19: [break and continue](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_19)
 - Day 20: [Functions](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_20)
 - Day 21: [Function arguments and return statement](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_21)
+- Day 22: [Introduction To Lists](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_22)
 
 ### License
 
