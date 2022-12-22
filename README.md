@@ -49,6 +49,7 @@ This challenge is to help you learn to code and get better at it.
 - Day 22: [Introduction To Lists](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_22)
 - Day 23: [List Methods](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_23)
 - Day 24: [Introduction to Tuples](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_24)
+- Day 25: [Operations on Tuples](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_25)
 
 ### License
 
