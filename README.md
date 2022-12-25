@@ -52,6 +52,7 @@ This challenge is to help you learn to code and get better at it.
 - Day 25: [Operations on Tuples](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_25)
 - Day 26: [Excersice 2 Good Morning Sir Solution](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_26)
 - Day 27: [Excersice 3 Kaun Banega Crorepati](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_27)
+- Day 28: [f strings](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_28)
 
 ### License
 
