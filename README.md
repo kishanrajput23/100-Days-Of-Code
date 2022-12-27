@@ -54,6 +54,7 @@ This challenge is to help you learn to code and get better at it.
 - Day 27: [Excersice 3 Kaun Banega Crorepati](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_27)
 - Day 28: [f strings](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_28)
 - Day 29: [Docstrings](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_29)
+- Day 30: [Recursion](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_30)
 
 ### License
 
