@@ -57,6 +57,7 @@ This challenge is to help you learn to code and get better at it.
 - Day 30: [Recursion](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_30)
 - Day 31: [Sets](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_31)
 - Day 32: [Set Methods](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_32)
+- Day 33: [Dictionary](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_33)
 
 ### License
 
