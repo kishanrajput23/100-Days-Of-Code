@@ -60,7 +60,7 @@ This challenge is to help you learn to code and get better at it.
 - Day 33: [Dictionary](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_33)
 - Day 34: [Dictionary Methods](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_34)
 - Day 35: [For Loop With Else](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_35)
-- Day 36: [Exception Handling+](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_36)
+- Day 36: [Exception Handling](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_36)
 
 ### License
 
