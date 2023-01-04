@@ -62,6 +62,7 @@ This challenge is to help you learn to code and get better at it.
 - Day 35: [For Loop With Else](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_35)
 - Day 36: [Exception Handling](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_36)
 - Day 37: [Finally Keyword](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_37)
+- Day 38: [Custom Errors](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_38)
 
 ### License
 
