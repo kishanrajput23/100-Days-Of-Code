@@ -63,6 +63,7 @@ This challenge is to help you learn to code and get better at it.
 - Day 36: [Exception Handling](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_36)
 - Day 37: [Finally Keyword](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_37)
 - Day 38: [Custom Errors](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_38)
+- Day 39: [Exercise 3 Solution](https://github.com/kishanrajput23/100-Days-Of-Code/tree/main/Day_39)
 
 ### License
 
